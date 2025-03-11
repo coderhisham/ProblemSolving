@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "345. Reverse Vowels of a String.md",
+                "file": "Leetcode/345. Reverse Vowels of a String.md",
                 "mode": "preview",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "345. Reverse Vowels of a String.md",
+                "file": "Leetcode/345. Reverse Vowels of a String.md",
                 "mode": "preview",
                 "source": false
               },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "345. Reverse Vowels of a String.md",
+                "file": "Leetcode/345. Reverse Vowels of a String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "345. Reverse Vowels of a String.md",
+                "file": "Leetcode/345. Reverse Vowels of a String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "345. Reverse Vowels of a String.md",
+                "file": "Leetcode/345. Reverse Vowels of a String.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,8 +183,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e861f18f8c531cf",
+  "active": "edf086c8b8864367",
   "lastOpenFiles": [
-    "345. Reverse Vowels of a String.md"
+    "Leetcode/345. Reverse Vowels of a String.md"
   ]
 }
